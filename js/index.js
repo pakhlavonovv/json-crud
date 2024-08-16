@@ -160,6 +160,7 @@ async function saveProduct() {
             
             // Yangi mahsulotni frontendda aks ettirish uchun:
             getProducts();
+            deleteProduct();
             toggleModal("none"); // Modalni yopish
 
         } catch (error) {

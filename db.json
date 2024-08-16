@@ -1,12 +1,12 @@
 {
   "products": [
     {
-      "id": "4633",
-      "name": "Samsung Galaxy A122",
-      "price": "1234",
-      "number": "234",
+      "id": "08e2",
+      "name": "Samsung Galaxy A12",
+      "price": "12",
+      "number": "123",
       "brand": "Apple",
-      "color": "#ca6d6d"
+      "color": "#923a3a"
     }
   ]
 }

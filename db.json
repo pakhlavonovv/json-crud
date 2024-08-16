@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "6680",
+      "name": "upjone",
+      "price": "1234",
+      "number": "12345",
+      "brand": "Verizon",
+      "color": "#c51b1b"
+    },
+    {
+      "id": "a52c"
+    },
+    {
+      "id": "0937",
+      "name": "Abdullox",
+      "price": "123",
+      "number": "1234",
+      "brand": "Samsung",
+      "color": "#d46e6e"
+    },
+    {
+      "id": "e041",
+      "name": "Samsung Galaxy A10",
+      "price": "123",
+      "number": "1234",
+      "brand": "Apple",
+      "color": "#b71515"
+    },
+    {
+      "id": "f188",
+      "name": "Samsung Galaxy A10",
+      "price": "1234567u",
+      "number": "1234",
+      "brand": "Apple",
+      "color": "#c97e7e"
+    }
+  ]
+}

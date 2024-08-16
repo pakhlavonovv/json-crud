@@ -136,7 +136,7 @@ async function saveProduct() {
                 body: JSON.stringify(form)
             });
             const updatedProduct = await response.json();
-            console.log("Yangilangan mahsulot: ", updatedProduct);
+            console.log("Yangilangan product: ", updatedProduct);
             
             // Yangilangan mahsulotni frontendda aks ettirish uchun:
             getProducts(); 
@@ -156,7 +156,7 @@ async function saveProduct() {
                 body: JSON.stringify(form)
             });
             const newProduct = await response.json();
-            console.log("Yangi mahsulot: ", newProduct);
+            console.log("Yangi product: ", newProduct);
             
             // Yangi mahsulotni frontendda aks ettirish uchun:
             getProducts();
